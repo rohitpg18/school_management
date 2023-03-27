@@ -1,0 +1,10 @@
+{
+    "username": "school_3",
+    "email": "school_3@gmail.com",
+    "password": "Ep@12345",
+    "school_user": {
+        "school_name": "school_three",
+        "city": "Solapur",
+        "pincode": 415208
+    }
+}
